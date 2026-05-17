@@ -1,0 +1,11 @@
+{
+  "name": "sms-webhook-test",
+  "version": "1.0.0",
+  "description": "SMS webhook receiver for AeroShield integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "Michael",
+  "license": "MIT"
+}
